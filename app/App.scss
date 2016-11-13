@@ -447,11 +447,17 @@ section {
   height: auto;
   position: absolute;
   margin-top: 64px;
+  font-size: 1.4em;
 }
 
 .transport {
   display: inline-block;
   border: 1px solid black;
+}
+
+.tempoDisplay {
+  display: block;
+  text-align: center;
 }
 
 .page-transition-enter {
